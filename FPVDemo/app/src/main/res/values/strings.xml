@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hawkeye</string>
+    <string name="action_settings">Settings</string>   
+    <string name="disconnected">Disconnected</string>
+    <string name="google_app_id">Google_App_ID_String</string>
+
+</resources>
